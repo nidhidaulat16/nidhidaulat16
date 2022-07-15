@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h2><p align="left"><b>ABOUT ME<b></p></h2>
  <ul>
  <li>I am a Web Developer & Software Engineer.</li>
- <li>Currently pursuing **BE.IT** from Mumbai University.</li>
+ <li>Currently pursuing <b>BE.IT</b> from Mumbai University.</li>
  <li>A technical explorer of coding & solving problems for real-time use case.</li>
  <li>Having an edge over new technologies in IT enabled services & learning them.</li>
 
