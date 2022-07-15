@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-***IT Delivery is about People, Process & Technology***
-![technical-support-customer-service-business-technology-internet-concept-100232431](https://user-images.githubusercontent.com/79735239/179234203-41aac0f1-6c2a-4c70-814d-9c6963a7624f.jpg)
-
-## **ABOUT ME**
+<h2><b><p align="center">IT Delivery is about People, Process & Technology</p></b></h2>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/79735239/179234203-41aac0f1-6c2a-4c70-814d-9c6963a7624f.jpg">
+</p>
+<h2><p align="center"><b>ABOUT ME<b></p></h2>
  - I am a Web Developer & Software Engineer.
  - Currently pursuing **BE.IT** from Mumbai University.
  - A technical explorer of coding & solving problems for real-time use case.
