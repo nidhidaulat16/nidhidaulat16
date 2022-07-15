@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/79735239/179234203-41aac0f1-6c2a-4c70-814d-9c6963a7624f.jpg">
 </p>
 <h2><p align="center"><b>ABOUT ME<b></p></h2>
- - I am a Web Developer & Software Engineer.
- - Currently pursuing **BE.IT** from Mumbai University.
- - A technical explorer of coding & solving problems for real-time use case.
- - Having an edge over new technologies in IT enabled services & learning them.
+ <ul>
+ <li>I am a Web Developer & Software Engineer.</li>
+ <li>Currently pursuing **BE.IT** from Mumbai University.</li>
+ <li>A technical explorer of coding & solving problems for real-time use case.</li>
+ <li>Having an edge over new technologies in IT enabled services & learning them.</li>
 
