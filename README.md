@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://user-images.githubusercontent.com/79735239/179234203-41aac0f1-6c2a-4c70-814d-9c6963a7624f.jpg">
 </p>
-<h2><p align="center"><b>ABOUT ME<b></p></h2>
+<h2><p align="left"><b>ABOUT ME<b></p></h2>
  <ul>
  <li>I am a Web Developer & Software Engineer.</li>
  <li>Currently pursuing **BE.IT** from Mumbai University.</li>
