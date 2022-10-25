@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3>HACKTOBER FEST 2022 REGISTERED BADGE</h3>
-[![@nidhidaulat16's Holopin board](https://holopin.me/nidhidaulat16)](https://holopin.io/@nidhidaulat16)
 
 <h2><b><p align="center">IT Delivery is about People, Process & Technology</p></b></h2>
 <p align="center">
@@ -29,3 +27,5 @@ Here are some ideas to get you started:
  <li>Having an edge over new technologies in IT enabled services & learning them.</li>
  
 
+<h3>HACKTOBER FEST 2022 REGISTERED BADGE</h3>
+[![@nidhidaulat16's Holopin board](https://holopin.me/nidhidaulat16)](https://holopin.io/@nidhidaulat16)
