@@ -27,5 +27,5 @@ Here are some ideas to get you started:
  <li>Having an edge over new technologies in IT enabled services & learning them.</li>
  
 
-<h3>HACKTOBER FEST 2022 REGISTERED BADGE</h3>
+HACKTOBER FEST 2022 REGISTERED BADGE
 [![@nidhidaulat16's Holopin board](https://holopin.me/nidhidaulat16)](https://holopin.io/@nidhidaulat16)
