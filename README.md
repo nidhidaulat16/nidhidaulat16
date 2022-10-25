@@ -25,6 +25,6 @@ Here are some ideas to get you started:
  <li>Currently pursuing <b>BE.IT</b> from Mumbai University.</li>
  <li>A technical explorer of coding & solving problems for real-time use case.</li>
  <li>Having an edge over new technologies in IT enabled services & learning them.</li>
- </ul>
-HACKTOBER FEST 2022 REGISTERED BADGE
+ 
+**HACKTOBER FEST 2022 REGISTERED BADGE**
 [![@nidhidaulat16's Holopin board](https://holopin.me/nidhidaulat16)](https://holopin.io/@nidhidaulat16)
