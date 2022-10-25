@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p>
+<h3>HACKTOBER FEST 2022 REGISTERED BADGE</h3>
+[![@nidhidaulat16's Holopin board](https://holopin.me/nidhidaulat16)](https://holopin.io/@nidhidaulat16)
+</p>
 <h2><b><p align="center">IT Delivery is about People, Process & Technology</p></b></h2>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/79735239/179234203-41aac0f1-6c2a-4c70-814d-9c6963a7624f.jpg">
